@@ -33,5 +33,9 @@ This stage is the stage for evaluating the prediction model that was created in 
 ### 6. Deployment
 This stage is the stage to find out the information that can be obtained from the prediction process. The information that will be taken is the level of accuracy of the prediction model, the error rate of the prediction model, a comparison of the error rate with the prediction values ​​used, such as the K value for K-NN and max depth for Decision Tree, and a comparison of the error rate between K-NN and Decision Tree.
 
+## Technologies 
+- Jupyter Notebook (Python)
+- CSV data format
+  
 ## Journal Link
 Link: https://drive.google.com/file/d/10b4tJ5NfNwwWqKmZ1XxLdVRXq0-mM8DX/view?usp=sharing 
